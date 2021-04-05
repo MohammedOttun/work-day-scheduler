@@ -10,6 +10,7 @@ textarea {
   resize: none;
   color: #000000;
   border-left: 1px solid black;
+  border-top: 1px dashed black;
   padding: 10px;
 }
 
@@ -23,6 +24,8 @@ textarea {
 
 .description {
   white-space: pre-wrap;
+  background-color: gainsboro;
+  text-align: center;
 }
 
 .time-block {
